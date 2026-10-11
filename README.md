@@ -8,3 +8,6 @@
 ## parts (pnum, pname, color, weight, city) //information about parts
 ## jobs (jnum, jname, numworkers, city) //information about jobs
 ## shipments (snum, pnum, jnum, quantity) //suppliers ship parts to jobs in specific quantities
+
+
+To run this, I'd used the Tomcat: https://tomcat.apache.org/download-11.cgi download the latest one
